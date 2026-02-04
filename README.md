@@ -81,19 +81,20 @@ The project aims to answer key business questions such as:
      - Scalable analytics queries
 
 4. 📊 Business Analysis & Insights<br/>
-   *	Key Analyses Performed:
-      - Movies vs TV Shows split
-      - Year-wise catalog growth
-      - Top genres on Netflix
-      - Dominant content ratings
-      - Top content-producing countries
-      - Country-wise Movies vs TV Shows focus
-      - Genre distribution across regions
-      - Monthly content addition trends
-      - Average time gap between release and Netflix availability
-      - Mature content genre dominance
-      - Popular genres in recent releases
-      - Average movie duration by genre
-      - TV show season distribution
-      - Data quality assessment (missing metadata)
-      - Growth opportunity identification by region & genre
+      *	Key Analysis Performed:
+        -	Movies vs TV Shows split
+        -	Year-wise catalog growth
+        -	Top genres on Netflix
+        -	Dominant content ratings
+        -	Top content-producing countries
+        -	Country-wise Movies vs TV Shows focus
+        -	Genre distribution across regions
+        -	Monthly content addition trends
+        -	Average time gap between release and Netflix availability
+        -	Mature content genre dominance
+        -	Popular genres in recent releases
+        -	Average movie duration by genre
+        -	TV show season distribution
+        -	Data quality assessment (missing metadata)
+        -	Growth opportunity identification by region & genre
+  
